@@ -5,4 +5,7 @@ RENCANA KONTEN:
     ^ React
 - PHP Frameworks
   * Codeigniter
-  * Laravel
+  * Laravel 
+- Python
+  * DJango
+- Database
