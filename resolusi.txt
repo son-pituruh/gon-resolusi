@@ -1,3 +1,4 @@
 GON RESOLUSI
 - Konsisten menulis konten 2x seminggu
 - membuat forum diskusi
+- membuat project menggunakan Git
